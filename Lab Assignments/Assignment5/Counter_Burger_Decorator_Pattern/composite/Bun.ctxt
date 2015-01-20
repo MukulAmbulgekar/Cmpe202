@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=burger\ customCheese
+comment0.target=Bun(CustomBurger,\ java.lang.String[])
+comment1.params=
+comment1.target=double\ getBurgerCost()
+numComments=2

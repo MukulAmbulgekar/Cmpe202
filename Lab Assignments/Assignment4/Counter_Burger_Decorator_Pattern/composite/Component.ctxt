@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ printDescription()
+comment1.params=c
+comment1.target=void\ addChild(Component)
+comment2.params=c
+comment2.target=void\ removeChild(Component)
+comment3.params=i
+comment3.target=Component\ getChild(int)
+numComments=4
