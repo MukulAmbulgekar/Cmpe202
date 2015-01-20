@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ insertQuarter()
+comment1.params=
+comment1.target=void\ insertDime()
+comment2.params=
+comment2.target=void\ insertNickel()
+comment3.params=
+comment3.target=void\ ejectQuarter()
+comment4.params=
+comment4.target=void\ turnCrank()
+comment5.params=
+comment5.target=void\ dispense()
+comment6.params=
+comment6.target=boolean\ isGumballInSlot()
+comment7.params=
+comment7.target=void\ takeGumballFromSlot()
+numComments=8

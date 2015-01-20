@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=gumballMachine
+comment0.target=SoldState(GumballMachine)
+comment1.params=
+comment1.target=void\ insertQuarter()
+comment10.params=
+comment10.target=boolean\ isGumballInSlot()
+comment11.params=
+comment11.target=java.lang.String\ toString()
+comment2.params=
+comment2.target=void\ insertNickel()
+comment3.params=
+comment3.target=void\ insertDime()
+comment4.params=
+comment4.target=void\ ejectQuarter()
+comment5.params=
+comment5.target=void\ ejectNickel()
+comment6.params=
+comment6.target=void\ ejectDime()
+comment7.params=
+comment7.target=void\ turnCrank()
+comment8.params=
+comment8.target=void\ dispense()
+comment9.params=
+comment9.target=void\ takeGumballFromSlot()
+numComments=12

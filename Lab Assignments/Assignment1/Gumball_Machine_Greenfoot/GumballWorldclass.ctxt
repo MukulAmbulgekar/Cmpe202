@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.params=
+comment0.target=GumballWorldclass()
+comment1.params=
+comment1.target=void\ WorldSetup()
+comment1.text=\r\n\ Prepare\ the\ world\ for\ the\ start\ of\ the\ program.\ That\ is\:\ create\ the\ initial\r\n\ objects\ and\ add\ them\ to\ the\ world.\r\n
+comment2.params=
+comment2.target=Inspector\ getInspector()
+comment3.params=
+comment3.target=GreenPicker\ getGreenPicker()
+comment4.params=
+comment4.target=RandomPicker\ getRandomPicker()
+numComments=5

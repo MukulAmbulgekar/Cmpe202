@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Inspector()
+comment1.params=penny\ quarter\ fake
+comment1.target=void\ RandomGreen(greenfoot.Actor,\ greenfoot.Actor,\ greenfoot.Actor)
+numComments=2

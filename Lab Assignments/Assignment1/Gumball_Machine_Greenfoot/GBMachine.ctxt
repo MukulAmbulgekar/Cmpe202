@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=penny\ quarter\ fake\ inspector
+comment0.target=GBMachine(Penny,\ Quarter,\ FakeQuarter,\ Inspector)
+comment1.params=
+comment1.target=GBMachine()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ CoinCheck()
+comment4.params=
+comment4.target=void\ pennyCheck()
+comment5.params=
+comment5.target=void\ quarterCheck()
+comment6.params=
+comment6.target=void\ fakeCheck()
+numComments=7
